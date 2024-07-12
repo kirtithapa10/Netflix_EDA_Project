@@ -3,3 +3,4 @@ This repository contains scripts and resources for analyzing a dataset of Netfli
 ## Importance of Data Analysis and EDA
 Data analysis helps us find useful information in raw data so we can make better decisions. Exploratory Data Analysis (EDA) is an important part of this process. EDA helps us understand patterns, find unusual data points, and test ideas. It often involves making charts and graphs to see relationships and trends that might not be obvious at first. In this project, EDA can show us trends in viewing habits, popular genres, and how content is spread across different countries and years. This information can be very helpful for content creators, marketers, and business planners.
 
+![Netflix frenará a los usuarios que comparten la contraseña](https://github.com/user-attachments/assets/c8e41a05-c929-46e2-95e0-2dd7e26da89a)
